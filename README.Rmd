@@ -28,6 +28,7 @@ You can install the development version of mypackage from GitHub with:
 devtools::install_github("annakrystalli/mypackage")
 ```
 
+
 ## Example
 
 This is a basic example which shows you how to print a generic greeting:
