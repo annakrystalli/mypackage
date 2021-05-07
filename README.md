@@ -4,6 +4,8 @@
 # mypackage
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/annakrystalli/mypackage/workflows/R-CMD-check/badge.svg)](https://github.com/annakrystalli/mypackage/actions)
 <!-- badges: end -->
 
 The goal of mypackage is to print a personalised greeting from me!
@@ -58,29 +60,7 @@ hello(name = "Lucy Elen")
 #>     \
 #>       \
 #>         \
-#>               /""-._
-#>               .       '-,
-#>                :          '',
-#>                 ;      *     '.
-#>                  ' *         () '.
-#>                    \               \
-#>                     \      _.---.._ '.
-#>                     :  .' _.--''-''  \ ,'
-#>         .._           '/.'             . ;
-#>         ; `-.          ,                \'
-#>          ;   `,         ;              ._\
-#>           ;    \     _,-'                ''--._
-#>           :    \_,-'                          '-._
-#>           \ ,-'                       .          '-._
-#>           .'         __.-'';            \...,__       '.
-#>         .'      _,-'        \              \   ''--.,__  '\
-#>         /    _,--' ;         \              ;           \^.}
-#>         ;_,-' )     \  )\      )            ;
-#>              /       \/  \_.,-'             ;
-#>             /                              ;
-#>          ,-'  _,-'''-.    ,-.,            ;      PFA
-#>       ,-' _.-'        \  /    |/'-._...--'
-#>      :--``             )/
-#>   '
+#>       ﾊ _ ﾊ
+#>       ಠ X ಠ
 #> 
 ```
