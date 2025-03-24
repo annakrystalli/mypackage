@@ -4,6 +4,8 @@
 # mypackage
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/annakrystalli/mypackage/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/annakrystalli/mypackage/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of mypackage is to print a personalised message from me!
@@ -29,14 +31,21 @@ hello()
 #>  ------------------------ 
 #> < Hello world from Anna! >
 #>  ------------------------ 
-#>      \
-#>       \
+#>          \
+#>           \
 #> 
-#>        _//| .-~~~-.
-#>      _/oo  }       }-@
-#>     ('')_  }       |
-#>      `--'| { }--{  }
-#>           //_/  /_/ [nosig]
+#>             |\___/|
+#>             )     (
+#>            =\     /=
+#>              )===(
+#>             /     \
+#>             |     |
+#>            /       \
+#>            \       /
+#>       jgs   \__  _/
+#>               ( (
+#>                ) )
+#>               (_(
 #> 
 ```
 
@@ -49,12 +58,18 @@ hello(name = "Lucy Elen")
 #>  ---------------------------- 
 #> < Hello Lucy Elen from Anna! >
 #>  ---------------------------- 
-#>       \
-#>        \
+#>                     \
+#>                      \
 #> 
-#>         ^__^ 
-#>         (==)\ ________ 
-#>         (__)\         )\ /\ 
-#>              ||------w|
-#>              ||      ||
+#>                       . .
+#>                       |\|\_
+#>                       /  @ \
+#>                      /  _-_/°
+#>    \\\\\\\\\       /   / \
+#>   ////////////   /  \ / ||
+#>  \\\\\\\\\\\\\\ /   /\\ \\
+#> ////////////////   /  \\ \\
+#>  \\\\\\\\\\\\\/   /  / `` ``
+#>      /////////   \  /  \
+#>  ML     \\\\\\___/_/___/
 ```
