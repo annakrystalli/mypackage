@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/annakrystalli/mypackage/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/annakrystalli/mypackage/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of mypackage is to print a personalised greeting from me!
@@ -35,29 +36,14 @@ hello()
     ##  \
     ##   \
     ## 
-    ##     .ﾊ,,ﾊ
-    ##     ( ﾟωﾟ)
-    ##     |つ  つ
-    ##     |    |
-    ##     |    |
-    ##     |    |
-    ##     |    |
-    ##     |    |
-    ##     |    |
-    ##     |    |
-    ##     |    |
-    ##     |    |
-    ##     |    |
-    ##     |    |
-    ##     |    |
-    ##     |    |
-    ##     |    |
-    ##     |    |
-    ##     |    |
-    ##     |    |
-    ##     |    |
-    ##     U "  U
-    ##         [BoingBoing]
+    ##     _
+    ##    / \
+    ##    | |
+    ##    @ @
+    ##   || ||
+    ##   || ||
+    ##   |\_/|
+    ##   \___/ GB
 
 This is a basic example which shows you how to print a personalised
 greeting:
@@ -70,16 +56,15 @@ hello(name = "Lucy Elen")
     ##  ____________________________ 
     ## < Hello Lucy Elen from Anna! >
     ##  ---------------------------- 
-    ##                \
-    ##                 \
+    ##                   \
+    ##                    \
     ## 
-    ##         __.--'\     \.__./     /'--.__
-    ##     _.-'       '.__.'    '.__.'       '-._
-    ##   .'                                      '.
-    ##  /                                          \
-    ## |                                            |
-    ## |                                            |
-    ##  \         .---.              .---.         /
-    ##   '._    .'     '.''.    .''.'     '.    _.'
-    ##      '-./            \  /           \.-'
-    ##                       ''mrf
+    ##            .-._   _ _ _ _ _ _ _ _
+    ## .-''-.__.-'00  '-' ' ' ' ' ' ' ' '-.
+    ## '.___ '    .   .--_'-' '-' '-' _'-' '._
+    ## V: V 'vv-'   '_   '.       .'  _..' '.'.
+    ##   '=.____.=_.--'   :_.__.__:_   '.   : :
+    ##            (((____.-'        '-.  /   : :
+    ## snd                          (((-'\ .' /
+    ##                            _____..'  .'
+    ##                           '-._____.-'
